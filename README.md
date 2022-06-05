@@ -1,13 +1,12 @@
 # ATM-Bank-App
 
 # Table of contents
-1. [Screenshots](#Screenshots)
-2. [About](#About)
-    1. [Built With](#Built With)
-3. [Getting Started](#Getting Started)
-    1. [Installation](#Installation)
+1. [Screenshots](#screenshots)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+## Images <a name="screenshots"></a>
 Some introduction text, formatted in heading 2 style
 
 ## Some paragraph <a name="paragraph1"></a>
