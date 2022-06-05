@@ -1,0 +1,3 @@
+from fileswithgui import *
+
+mainApp()
