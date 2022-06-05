@@ -8,16 +8,16 @@
     1. [Installation](#installation) 
 
 ## Images <a name="screenshots"></a>
-Some introduction text, formatted in heading 2 style
+images
 
-## Some paragraph <a name="about"></a>
-The first paragraph text
+## About <a name="about"></a>
+about
 
-### Sub paragraph <a name="builtwith"></a>
+### Built With <a name="builtwith"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-## Another paragraph <a name="gettingstarted"></a>
+## Getting Started <a name="gettingstarted"></a>
 The second paragraph text
 
-### Sub paragraph <a name="installation"></a>
+### Installation <a name="installation"></a>
 This is a sub paragraph, formatted in heading 3 style
