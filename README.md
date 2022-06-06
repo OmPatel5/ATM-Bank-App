@@ -22,8 +22,8 @@ about
 ## Built With <a name="builtwith"></a>
 * Python
 
-## Getting Started <a name="gettingstarted"></a>
+# Getting Started <a name="gettingstarted"></a>
 **To get this project running follow these steps**
 
-# Installation <a name="installation"></a>
-This is a sub paragraph, formatted in heading 3 style
+## Installation <a name="installation"></a>
+`code`
