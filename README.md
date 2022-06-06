@@ -9,6 +9,7 @@
 
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
+
 Figure 1: Login Page
 
 ## About <a name="about"></a>
