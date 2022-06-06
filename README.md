@@ -12,12 +12,12 @@
 
 ### Figure 1: Login Page
 
-
-
+ 
+ 
+ 
 ![This is the Account page](resources/Bank.PNG)
 
 ### Figure 2: Account Page
-
 
 ## About <a name="about"></a>
 about
