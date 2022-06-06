@@ -23,7 +23,7 @@ about
 * Python
 
 ## Getting Started <a name="gettingstarted"></a>
-The second paragraph text
+**To get this project running follow these steps**
 
 # Installation <a name="installation"></a>
 This is a sub paragraph, formatted in heading 3 style
