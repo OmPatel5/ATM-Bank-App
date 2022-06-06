@@ -10,7 +10,7 @@
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
-### Figure 1: Login Page
+### Figure 1: Login Page\
 
 ![This is the Account page](resources/Bank.PNG)
 
@@ -29,3 +29,11 @@ about
 1. Clone the Repository\
 `git clone https://github.com/OmPatel5/ATM-Bank-App.git`
 
+2. Install Tkinter\
+`pip install tk`
+
+3. Install Pygame\
+`pip install pygame`
+
+4. Install Pandas\
+`pip install pandas`
