@@ -3,9 +3,9 @@
 # Table of contents
 1. [Screenshots](#screenshots)
 2. [About](#about)
-    * . [Built With](#builtwith)
+    * [Built With](#builtwith)
 3. [Getting Started](#gettingstarted)
-    1. [Installation](#installation) 
+    * [Installation](#installation) 
 
 ## Images <a name="screenshots"></a>
 images
