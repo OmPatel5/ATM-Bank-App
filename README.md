@@ -10,17 +10,17 @@
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
-### Figure 1: Login Page\
-
-![This is the Account page](resources/Bank.PNG)
-
-### Figure 2: Account Page
+### Figure 1: Login Page
 
 # About <a name="about"></a>
 about
 
 ## Built With <a name="builtwith"></a>
 * Python
+
+![This is the Account page](resources/Bank.PNG)
+
+### Figure 2: Account Page
 
 # Getting Started <a name="gettingstarted"></a>
 **To get this project running follow these steps**
