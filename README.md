@@ -27,4 +27,4 @@ about
 
 ## Installation <a name="installation"></a>
 1. Clone the Repository
-  `git clone https://github.com/OmPatel5/ATM-Bank-App.git`
+```git clone https://github.com/OmPatel5/ATM-Bank-App.git```
