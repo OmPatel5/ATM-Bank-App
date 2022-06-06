@@ -10,11 +10,11 @@
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
-###Figure 1: Login Page
+### Figure 1: Login Page
 
 ![This is the Account page](resources/Bank.PNG)
 
-###Figure 2: Account Page
+### Figure 2: Account Page
 
 ## About <a name="about"></a>
 about
