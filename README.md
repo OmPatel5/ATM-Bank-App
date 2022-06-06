@@ -16,14 +16,14 @@
 
 ### Figure 2: Account Page
 
-## About <a name="about"></a>
+# About <a name="about"></a>
 about
 
-### Built With <a name="builtwith"></a>
-*This is a sub paragraph, formatted in heading 3 style
+## Built With <a name="builtwith"></a>
+* Python
 
 ## Getting Started <a name="gettingstarted"></a>
 The second paragraph text
 
-### Installation <a name="installation"></a>
+# Installation <a name="installation"></a>
 This is a sub paragraph, formatted in heading 3 style
