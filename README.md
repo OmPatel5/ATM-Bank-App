@@ -23,7 +23,7 @@ After you have successfully logged in to your account, the main bank window will
 
 ![This is the Deposit page](resources/Deposit.PNG)
 
-### Figure 2 Deposit Page
+### Figure 2: Deposit Page
 
 
 ## Built With <a name="builtwith"></a>
