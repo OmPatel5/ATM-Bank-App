@@ -11,11 +11,9 @@
 ![This is the Login page](resources/Log_In.PNG)
 
 Figure 1: Login Page
- 
- 
- 
- 
- 
+&nbsp
+&nbsp
+&nbsp
 ![This is the Account page](resources/Bank.PNG)
 
 Figure 2: Account Page
