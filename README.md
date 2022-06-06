@@ -3,7 +3,7 @@
 # Table of contents
 1. [Screenshots](#screenshots)
 2. [About](#about)
-    1. [Built With](#builtwith)
+    * . [Built With](#builtwith)
 3. [Getting Started](#gettingstarted)
     1. [Installation](#installation) 
 
