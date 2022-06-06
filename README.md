@@ -9,7 +9,7 @@
 
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
-<center>Centered text</center>
+| I'm centered! |
 
 
 ## About <a name="about"></a>
