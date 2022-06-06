@@ -8,7 +8,7 @@
     * [Installation](#installation) 
 
 ## Images <a name="screenshots"></a>
-![](resources/Log_In.PNG)
+![This is the Login page.](resources/Log_In.PNG)
 
 ## About <a name="about"></a>
 about
