@@ -13,7 +13,13 @@
 ### Figure 1: Login Page
 
 # About <a name="about"></a>
-about
+This project is a login and banking system using Python Tkinter module. 
+
+## Login System
+When you run the program, the first thing that pops up is a login window, asking for your username and password, which is saved in a csv file. If you don't already have an account, you can click the sign up button and it will automatically add your username, password, and amount (defult is 0) to the csv file. 
+
+## Main Bank System
+After you have successfully logged in to your account, the main bank window will pop up on your screen. This window includes your account username, amount, and 2 buttons: Deposit and Withdraw. When you sign up for an account, your defult amount of money is 0, and once you deposit/withdraw, the amount of money will be updated to your associated row (the amount column). If you press the deposit/withdraw button, it will pop up another window with a text bar, and a button where you can confirm the amount of money to be deposited/withdrawn.
 
 ## Built With <a name="builtwith"></a>
 * Python
