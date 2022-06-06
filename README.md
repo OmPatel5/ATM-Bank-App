@@ -26,5 +26,6 @@ about
 **To get this project running follow these steps**
 
 ## Installation <a name="installation"></a>
-1. Clone the Repository\
+1. Clone the Repository:
 `git clone https://github.com/OmPatel5/ATM-Bank-App.git`
+
