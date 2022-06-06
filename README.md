@@ -8,7 +8,7 @@
     * [Installation](#installation) 
 
 ## Images <a name="screenshots"></a>
-![title](Log_In.png)
+![title](C:\Users\omp16\Documents\TkinterProject\resources\Log_In.PNG)
 
 ## About <a name="about"></a>
 about
