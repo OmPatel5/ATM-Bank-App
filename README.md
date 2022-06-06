@@ -10,8 +10,9 @@
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
-| I'm centered! |
+Figure 1: Login Page
 
+![This is the Account page](resources/Bank.PNG)
 
 ## About <a name="about"></a>
 about
