@@ -26,4 +26,5 @@ about
 **To get this project running follow these steps**
 
 ## Installation <a name="installation"></a>
-`code`
+1. Clone the Repository
+   `git clone `
