@@ -21,12 +21,17 @@ When you run the program, the first thing that pops up is a login window, asking
 ## Main Bank System
 After you have successfully logged in to your account, the main bank window will pop up on your screen. This window includes your account username, amount, and 2 buttons: Deposit and Withdraw. When you sign up for an account, your defult amount of money is 0, and once you deposit/withdraw, the amount of money will be updated to your associated row (the amount column). If you press the deposit/withdraw button, it will pop up another window with a text bar, and a button where you can confirm the amount of money to be deposited/withdrawn.
 
+![This is the Deposit page](resources/Deposit.PNG)
+
+### Figure 2 Deposit Page
+
+
 ## Built With <a name="builtwith"></a>
 * Python
 
 ![This is the Account page](resources/Bank.PNG)
 
-### Figure 2: Account Page
+### Figure 3: Account Page
 
 # Getting Started <a name="gettingstarted"></a>
 **To get this project running follow these steps**
