@@ -7,12 +7,12 @@
 3. [Getting Started](#gettingstarted)
     * [Installation](#installation) 
 
-<p>
+
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
-   <figcaption>Figure 1: Login Page</figcaption>
-</p>
+ Figure 1: Login Page
+
 # About <a name="about"></a>
 This project is a login and banking system using Python Tkinter module. 
 
