@@ -11,7 +11,7 @@
 ## Images <a name="screenshots"></a>
 ![This is the Login page](resources/Log_In.PNG)
 
- Figure 1: Login Page
+### Figure 1: Login Page
 
 # About <a name="about"></a>
 This project is a login and banking system using Python Tkinter module. 
